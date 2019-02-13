@@ -34,7 +34,7 @@ namespace GameJam
         public static float difficultyModifier;
 
         public static List<IEnemy> enemies = new List<IEnemy>();
-        private static List<LampPost> lampPosts = new List<LampPost>();
+        //private static List<LampPost> lampPosts = new List<LampPost>();
 
         //Edited by Noble 12-10, Alexander 12-11
         public static void LoadContent(ContentManager content, GraphicsDevice graphicsDevice)
