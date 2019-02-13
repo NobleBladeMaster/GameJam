@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\Box-textur.jpg</Source>
+      <Name>Models\Box-textur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\bin\x86\Debug\Content\Models\Box-textur.xnb</Output>
+      <Time>2019-02-06T11:07:21.7587168+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Checker.bmp</Source>
+      <Name>Models\Checker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\bin\x86\Debug\Content\Models\Checker.xnb</Output>
+      <Time>2019-02-06T11:09:43.0219332+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\test.fbx</Source>
+      <Name>Models\test</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\bin\x86\Debug\Content\Models\test.xnb</Output>
+      <Time>2019-02-06T11:07:25.4120298+01:00</Time>
+      <Dependency>
+        <Key>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\obj\x86\Debug\Models\test_0.xml</Key>
+        <Value>2019-02-06T11:33:45.7914907+01:00</Value>
+      </Dependency>
+      <Request>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\bin\x86\Debug\Content\Models\Box-textur_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Ground.x</Source>
+      <Name>Models\Ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\bin\x86\Debug\Content\Models\Ground.xnb</Output>
+      <Time>2019-02-06T11:09:43.0339093+01:00</Time>
+      <Dependency>
+        <Key>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\obj\x86\Debug\Models\Ground_0.xml</Key>
+        <Value>2019-02-06T11:33:45.9852359+01:00</Value>
+      </Dependency>
+      <Request>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\bin\x86\Debug\Content\Models\Checker_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\test.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\obj\x86\Debug\Models\test_0.xml</Output>
+      <Time>2019-02-06T11:07:25.4120298+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Box-textur.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\bin\x86\Debug\Content\Models\Box-textur_0.xnb</Output>
+      <Time>2019-02-06T11:07:21.7587168+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\obj\x86\Debug\Models\Ground_0.xml</Output>
+      <Time>2019-02-06T11:09:43.0339093+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Checker.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\bin\x86\Debug\Content\Models\Checker_0.xnb</Output>
+      <Time>2019-02-06T11:09:43.0219332+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D0CE2F58-270B-4BA2-8965-57EC415F6A5B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCameraContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\Tools_3D_FreeCamera\Tools_3D_FreeCamera\Tools_3D_FreeCamera\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-11-07T11:55:20.4823308+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

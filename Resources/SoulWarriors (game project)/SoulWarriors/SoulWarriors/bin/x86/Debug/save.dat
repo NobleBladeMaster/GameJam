@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CampaingScores>
+    <HighScoreEntry>
+      <name>Default</name>
+      <score>0</score>
+    </HighScoreEntry>
+  </CampaingScores>
+  <EndlessScores>
+    <HighScoreEntry>
+      <name>Default</name>
+      <score>0</score>
+    </HighScoreEntry>
+  </EndlessScores>
+</SaveData>

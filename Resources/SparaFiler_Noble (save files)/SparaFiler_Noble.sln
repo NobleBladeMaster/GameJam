@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparaFiler_Noble", "SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble.csproj", "{2E9691E4-AD15-4751-A501-8F8463C52A07}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SparaFiler_NobleContent", "SparaFiler_Noble\SparaFiler_NobleContent\SparaFiler_NobleContent.contentproj", "{48592725-70D6-4915-BDB4-0D70A5B55B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E9691E4-AD15-4751-A501-8F8463C52A07}.Debug|x86.ActiveCfg = Debug|x86
+		{2E9691E4-AD15-4751-A501-8F8463C52A07}.Debug|x86.Build.0 = Debug|x86
+		{2E9691E4-AD15-4751-A501-8F8463C52A07}.Release|x86.ActiveCfg = Release|x86
+		{2E9691E4-AD15-4751-A501-8F8463C52A07}.Release|x86.Build.0 = Release|x86
+		{48592725-70D6-4915-BDB4-0D70A5B55B94}.Debug|x86.ActiveCfg = Debug|x86
+		{48592725-70D6-4915-BDB4-0D70A5B55B94}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

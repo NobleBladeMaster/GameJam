@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\Chain.png</Source>
+      <Name>Textures\Chain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Chain.xnb</Output>
+      <Time>2019-01-26T22:08:56.2714757+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WorldBackground.jpg</Source>
+      <Name>Textures\WorldBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\WorldBackground.xnb</Output>
+      <Time>2019-01-26T21:53:31.4462443+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ArcherSpriteSheet.png</Source>
+      <Name>Textures\ArcherSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\ArcherSpriteSheet.xnb</Output>
+      <Time>2019-01-04T16:26:48.3703353+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\KnightSpriteSheet.png</Source>
+      <Name>Textures\KnightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\KnightSpriteSheet.xnb</Output>
+      <Time>2019-01-04T16:26:48.3713323+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\DebugFont.spritefont</Source>
+      <Name>Fonts\DebugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Fonts\DebugFont.xnb</Output>
+      <Time>2019-01-04T16:26:48.3723296+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\Selection.png</Source>
+      <Name>Textures\Menu\Selection</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Selection.xnb</Output>
+      <Time>2019-01-26T21:53:31.4402607+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\Menu0_button1.png</Source>
+      <Name>Textures\Menu\Menu0_button1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu0_button1.xnb</Output>
+      <Time>2019-01-26T21:53:31.4362714+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\Menu0_button2.png</Source>
+      <Name>Textures\Menu\Menu0_button2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu0_button2.xnb</Output>
+      <Time>2019-01-26T21:53:31.4392634+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\Menu1_background.png</Source>
+      <Name>Textures\Menu\Menu1_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu1_background.xnb</Output>
+      <Time>2019-01-26T21:53:31.4402607+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\Menu1_button0.png</Source>
+      <Name>Textures\Menu\Menu1_button0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu1_button0.xnb</Output>
+      <Time>2019-01-26T21:53:31.4392634+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\MainMenuBackground.png</Source>
+      <Name>Textures\Menu\MainMenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\MainMenuBackground.xnb</Output>
+      <Time>2019-01-26T22:08:56.2764623+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\Button1.png</Source>
+      <Name>Textures\Menu\Button1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Button1.xnb</Output>
+      <Time>2019-01-26T22:08:56.2764623+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B89AF2B5-6B27-4CD5-81D9-C349D3759B1D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriorsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-20T13:21:22.7253159+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

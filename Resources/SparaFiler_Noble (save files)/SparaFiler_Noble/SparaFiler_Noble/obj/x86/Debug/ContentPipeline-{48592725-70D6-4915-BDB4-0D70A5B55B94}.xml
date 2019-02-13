@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2018-09-12T13:48:29.660628+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2018-09-12T13:47:42.1850943+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2018-09-12T13:48:29.6239956+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{48592725-70D6-4915-BDB4-0D70A5B55B94}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_NobleContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-11-21T11:26:06.5606118+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

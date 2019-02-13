@@ -1,0 +1,93 @@
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont1.xnb
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.exe
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.pdb
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.csprojResolveAssemblyReference.cache
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.exe
+c:\users\noble.johanssonmart\documents\visual studio 2015\Projects\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.pdb
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.csprojResolveAssemblyReference.cache
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.exe
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.pdb
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.exe
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.pdb
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont2.xnb
+D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont3.xnb
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont3.xnb
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.exe
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.pdb
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.csprojResolveAssemblyReference.cache
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.exe
+E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.pdb
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont2.xnb
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont3.xnb
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.exe
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.pdb
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.csprojResolveAssemblyReference.cache
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.exe
+D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.pdb
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont3.xnb
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.exe
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.pdb
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.csprojResolveAssemblyReference.cache
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.exe
+F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.pdb

@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\NormalMenuFont.spritefont</Source>
+      <Name>Fonts\NormalMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Fonts\NormalMenuFont.xnb</Output>
+      <Time>2018-12-11T05:42:18.055575+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BoldMenuFont.spritefont</Source>
+      <Name>Fonts\BoldMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Fonts\BoldMenuFont.xnb</Output>
+      <Time>2018-12-11T05:42:31.8474004+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\CreditsTitleFont.spritefont</Source>
+      <Name>Fonts\CreditsTitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Fonts\CreditsTitleFont.xnb</Output>
+      <Time>2018-12-11T06:03:19.4023616+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\CreditsFont.spritefont</Source>
+      <Name>Fonts\CreditsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Fonts\CreditsFont.xnb</Output>
+      <Time>2018-12-11T06:03:19.3893997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BoldCreditsFont.spritefont</Source>
+      <Name>Fonts\BoldCreditsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Fonts\BoldCreditsFont.xnb</Output>
+      <Time>2018-12-11T06:03:19.3764063+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ScoreFont.spritefont</Source>
+      <Name>Fonts\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Fonts\ScoreFont.xnb</Output>
+      <Time>2018-12-11T06:37:16.4921015+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Player.png</Source>
+      <Name>Textures\Characters\Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Characters\Player.xnb</Output>
+      <Time>2018-12-09T13:24:34.7642149+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ActiveObjects\Ground.png</Source>
+      <Name>Textures\ActiveObjects\Ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\ActiveObjects\Ground.xnb</Output>
+      <Time>2018-12-11T03:05:59.859974+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ActiveObjects\LampPost.png</Source>
+      <Name>Textures\ActiveObjects\LampPost</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\ActiveObjects\LampPost.xnb</Output>
+      <Time>2018-12-09T17:05:48.9277684+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ActiveObjects\LampPostNormalMap.png</Source>
+      <Name>Textures\ActiveObjects\LampPostNormalMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\ActiveObjects\LampPostNormalMap.xnb</Output>
+      <Time>2018-12-09T17:05:48.9277684+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\PlayerNormalMap.png</Source>
+      <Name>Textures\Characters\PlayerNormalMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Characters\PlayerNormalMap.xnb</Output>
+      <Time>2018-12-09T13:24:34.7642149+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\InGameBackground.png</Source>
+      <Name>Textures\Backgrounds\InGameBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Backgrounds\InGameBackground.xnb</Output>
+      <Time>2018-12-10T20:32:36.1984056+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CollisionMaps\PlayerCollisionMap.png</Source>
+      <Name>Textures\CollisionMaps\PlayerCollisionMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\CollisionMaps\PlayerCollisionMap.xnb</Output>
+      <Time>2018-12-09T15:53:50.8369192+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\InGameBackgroundNormalMap.png</Source>
+      <Name>Textures\Backgrounds\InGameBackgroundNormalMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Backgrounds\InGameBackgroundNormalMap.xnb</Output>
+      <Time>2018-12-09T15:33:52.451086+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ActiveObjects\HealthBar.png</Source>
+      <Name>Textures\ActiveObjects\HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\ActiveObjects\HealthBar.xnb</Output>
+      <Time>2018-12-10T20:53:26.3733377+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ActiveObjects\GroundNormalMap.png</Source>
+      <Name>Textures\ActiveObjects\GroundNormalMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\ActiveObjects\GroundNormalMap.xnb</Output>
+      <Time>2018-12-11T03:05:59.8609712+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\MainMenuBackground.png</Source>
+      <Name>Textures\Backgrounds\MainMenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Backgrounds\MainMenuBackground.xnb</Output>
+      <Time>2018-12-10T19:04:54.1216824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\BatonPolice.png</Source>
+      <Name>Textures\Characters\BatonPolice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Characters\BatonPolice.xnb</Output>
+      <Time>2018-12-10T19:14:15.0377141+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CollisionMaps\BatonPoliceCollisionMap.png</Source>
+      <Name>Textures\CollisionMaps\BatonPoliceCollisionMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\CollisionMaps\BatonPoliceCollisionMap.xnb</Output>
+      <Time>2018-12-10T19:57:43.3184408+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CollisionMaps\CivillianCollisionMap.png</Source>
+      <Name>Textures\CollisionMaps\CivillianCollisionMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\CollisionMaps\CivillianCollisionMap.xnb</Output>
+      <Time>2018-12-10T20:01:18.5245307+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Civillian.png</Source>
+      <Name>Textures\Characters\Civillian</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Characters\Civillian.xnb</Output>
+      <Time>2018-12-11T03:05:59.862966+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\CompanyLogo.png</Source>
+      <Name>Textures\Backgrounds\CompanyLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Backgrounds\CompanyLogo.xnb</Output>
+      <Time>2018-12-10T19:52:17.1624111+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Credits.png</Source>
+      <Name>Textures\Backgrounds\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Backgrounds\Credits.xnb</Output>
+      <Time>2018-12-10T19:04:54.4438213+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ActiveObjects\PistolParticle.png</Source>
+      <Name>Textures\ActiveObjects\PistolParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\ActiveObjects\PistolParticle.xnb</Output>
+      <Time>2018-12-10T20:26:20.260997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\BatonPoliceNormalMap.png</Source>
+      <Name>Textures\Characters\BatonPoliceNormalMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Characters\BatonPoliceNormalMap.xnb</Output>
+      <Time>2018-12-11T03:05:59.8619693+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\CivillianNormalMap.png</Source>
+      <Name>Textures\Characters\CivillianNormalMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Characters\CivillianNormalMap.xnb</Output>
+      <Time>2018-12-11T03:05:59.862966+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ActiveObjects\Platform.png</Source>
+      <Name>Textures\ActiveObjects\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\ActiveObjects\Platform.xnb</Output>
+      <Time>2018-12-10T20:21:46.6998645+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ActiveObjects\PlatformNormalMap.png</Source>
+      <Name>Textures\ActiveObjects\PlatformNormalMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\ActiveObjects\PlatformNormalMap.xnb</Output>
+      <Time>2018-12-11T03:05:59.8609712+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\NormalMapCompanyLogo.png</Source>
+      <Name>Textures\Backgrounds\NormalMapCompanyLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Backgrounds\NormalMapCompanyLogo.xnb</Output>
+      <Time>2018-12-10T20:21:57.3004742+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\NormalMapMainMenuBackground.png</Source>
+      <Name>Textures\Backgrounds\NormalMapMainMenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Backgrounds\NormalMapMainMenuBackground.xnb</Output>
+      <Time>2018-12-10T20:22:10.8182494+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Tutorialdone.png</Source>
+      <Name>Textures\Backgrounds\Tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Backgrounds\Tutorial.xnb</Output>
+      <Time>2018-12-10T20:22:18.2184603+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CollisionMaps\PlayerAttackCollisionMap.png</Source>
+      <Name>Textures\CollisionMaps\PlayerAttackCollisionMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\CollisionMaps\PlayerAttackCollisionMap.xnb</Output>
+      <Time>2018-12-10T20:22:22.1233049+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\HighScoreBackground.png</Source>
+      <Name>Textures\Backgrounds\HighScoreBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Backgrounds\HighScoreBackground.xnb</Output>
+      <Time>2018-12-11T04:24:28.9174764+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\NormalMapInGameBackground.png</Source>
+      <Name>Textures\Backgrounds\NormalMapInGameBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Backgrounds\NormalMapInGameBackground.xnb</Output>
+      <Time>2018-12-10T20:32:40.8133234+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\GameOver.png</Source>
+      <Name>Textures\Backgrounds\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\Textures\Backgrounds\GameOver.xnb</Output>
+      <Time>2018-12-11T07:20:20.6880333+01:00</Time>
+    </Item>
+    <Item>
+      <Source>DeferredCombined.fx</Source>
+      <Name>DeferredCombined</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\DeferredCombined.xnb</Output>
+      <Time>2018-12-07T21:22:32.6061068+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MultiTarget.fx</Source>
+      <Name>MultiTarget</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\MultiTarget.xnb</Output>
+      <Time>2018-12-07T21:22:32.6110939+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{817DB343-31D2-4701-9A89-06CCD417F0C6}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddockContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-20T13:21:22.7253159+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
