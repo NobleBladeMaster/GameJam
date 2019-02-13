@@ -41,6 +41,11 @@ namespace GameJam
             return currentKeyboardState.IsKeyDown(key) && previousKeyboardState.IsKeyUp(key);
         }
 
+        public static bool HoldingDownKey(Keys key)
+        {
+            return currentKeyboardState.IsKeyDown(key);
+        }
+
         public static float Truncate(this float value, int digits)
         {
             double mult = Math.Pow(10.0, digits);

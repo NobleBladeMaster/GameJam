@@ -2,3 +2,5 @@ C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj
 C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\GameJam.csprojResolveAssemblyReference.cache
 C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\GameJam.csprojResolveAssemblyReference.cache
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
