@@ -2,11 +2,11 @@ Content\Textures\Chain.xnb
 Content\Textures\WorldBackground.xnb
 Content\Textures\ArcherSpriteSheet.xnb
 Content\Textures\KnightSpriteSheet.xnb
-Content\Fonts\DebugFont.xnb
 Content\Textures\Menu\Selection.xnb
+Content\Textures\Menu\MainMenuBackground.xnb
 Content\Textures\Menu\Menu0_button1.xnb
+Content\Textures\Menu\Button1.xnb
 Content\Textures\Menu\Menu0_button2.xnb
 Content\Textures\Menu\Menu1_background.xnb
 Content\Textures\Menu\Menu1_button0.xnb
-Content\Textures\Menu\MainMenuBackground.xnb
-Content\Textures\Menu\Button1.xnb
+Content\Fonts\DebugFont.xnb

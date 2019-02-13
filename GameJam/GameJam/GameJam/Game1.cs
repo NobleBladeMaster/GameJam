@@ -28,6 +28,26 @@ namespace GameJam
         // asdlkdsalkjsadlkjsdajl
 
 
+        public enum GameStates : byte
+        {
+            MainMenu,
+            InGame,
+            HighScore,
+            Tutorial,
+            Credits,
+            Exit,
+            GameOver,
+        }
+
+        public static Point ScreenBounds { get; } = new Point(1280, 720);
+
+        public static GameStates GameState = GameStates.MainMenu;
+        public static SpriteFont NormalMenuFont;
+        public static SpriteFont BoldMenuFont;
+
+        public static SpriteFont CreditsFont;
+        public static SpriteFont BoldCreditsFont;
+        public static SpriteFont CreditsTitleFont;
 
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
@@ -74,9 +94,34 @@ namespace GameJam
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
+            switch (GameState)
+            {
+                case GameStates.MainMenu:
+                    MainMenu.Update();
+                    break;
+              
+                case GameStates.Exit:
+                    this.Exit();
+                    break;
+                case GameStates.HighScore:
+                    break;
+                case GameStates.GameOver:
+                    break;
+                default:
+                    throw new ArgumentOutOfRangeException();
+            }
+
+
+
             // TODO: Add your update logic here
 
             base.Update(gameTime);
+
+
+
+
+
+
         }
 
         /// <summary>

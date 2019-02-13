@@ -51,3 +51,7 @@ C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\Te
 C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Debug\Content\Fonts\BoldCreditsFont.xnb
 C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
 C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddock\bin\x86\Debug\Content\Textures\Backgrounds\GameOver.xnb
+C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddock\obj\x86\Debug\TeamHaddock.csprojResolveAssemblyReference.cache
+C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddock\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddock\obj\x86\Debug\TeamHaddock.exe
+C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddock\obj\x86\Debug\TeamHaddock.pdb
