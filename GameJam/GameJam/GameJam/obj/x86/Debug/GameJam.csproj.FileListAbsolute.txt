@@ -1,0 +1,2 @@
+C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\GameJam.csprojResolveAssemblyReference.cache
+C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
