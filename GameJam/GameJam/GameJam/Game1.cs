@@ -18,6 +18,12 @@ namespace GameJam
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        CollidableObject collidableObject;
+        Player player;
+        ShotManager shotManager;
+        SpriteManager spriteManager;
+        Texture2D playerPic;
+
 
         public Game1()
         {
@@ -71,6 +77,10 @@ namespace GameJam
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
+            Rectangle screenBounds = new Rectangle(0, 0, this.Window.ClientBounds.Width, this.Window.ClientBounds.Height);
+
+            player = new Player(Content.Load<Texture2D>(@"Textures/Avilda - Front"), 1, 42, 92, screenBounds);
+
             // TODO: use this.Content to load your game content here
         }
 
@@ -118,10 +128,10 @@ namespace GameJam
             base.Update(gameTime);
 
 
+            player.Update(gameTime);
 
 
-
-
+            player.HandleSpriteMovement(gameTime);
         }
 
         /// <summary>
@@ -133,6 +143,14 @@ namespace GameJam
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+
+            spriteBatch.Begin();
+
+            spriteBatch.Draw(pl)
+
+            player.Draw(spriteBatch);
+
+            spriteBatch.End();
 
             base.Draw(gameTime);
         }

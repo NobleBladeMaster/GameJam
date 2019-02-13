@@ -7,7 +7,7 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace GameJam
 {
-    class ShotManager
+  public class ShotManager
     {
         // Variables
         private static Texture2D Texture;

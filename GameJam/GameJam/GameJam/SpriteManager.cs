@@ -7,7 +7,7 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace GameJam
 {
-    class SpriteManager
+  public class SpriteManager
     {
         public int BoundingXPadding = 0;
         public int BoundingYPadding = 0;
