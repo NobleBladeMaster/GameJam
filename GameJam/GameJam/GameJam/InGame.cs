@@ -33,7 +33,7 @@ namespace GameJam
         public static int totalTimeElapsed;
         public static float difficultyModifier;
 
-        public static List<IEnemy> enemies = new List<IEnemy>();
+        //public static List<IEnemy> enemies = new List<IEnemy>();
         //private static List<LampPost> lampPosts = new List<LampPost>();
 
         //Edited by Noble 12-10, Alexander 12-11
@@ -57,18 +57,18 @@ namespace GameJam
             totalTimeElapsed = 0;
             difficultyModifier = 0;
 
-            enemies.Clear();
-            lampPosts.Clear();
+            //enemies.Clear();
+            //lampPosts.Clear();
 
-            UserInterface.LoadContent(content);
+            //UserInterface.LoadContent(content);
 
-            MeleeEnemy.LoadContent(content);
-            CivilianEnemy.LoadContent(content);
+            //MeleeEnemy.LoadContent(content);
+            //CivilianEnemy.LoadContent(content);
 
-            LampPost.LoadContent(content);
+            //LampPost.LoadContent(content);
 
-            lampPosts.Add(new LampPost(new Vector2(Game1.ScreenBounds.X - 250, groundRectangle.Top)));
-            lampPosts.Add(new LampPost(new Vector2(250, groundRectangle.Top)));
+            //lampPosts.Add(new LampPost(new Vector2(Game1.ScreenBounds.X - 250, groundRectangle.Top)));
+            //lampPosts.Add(new LampPost(new Vector2(250, groundRectangle.Top)));
         }
 
         public static void Update(GameTime gameTime)
@@ -80,11 +80,11 @@ namespace GameJam
             // Update player logic
             player.Update(gameTime);
 
-            // Update enemy logic
-            foreach (IEnemy enemy in enemies)
-            {
-                enemy.Update(gameTime);
-            }
+            //// Update enemy logic
+            //foreach (IEnemy enemy in enemies)
+            //{
+            //    enemy.Update(gameTime);
+            //}
         }
 
         private static void UpdateSpawning(GameTime gameTime)
@@ -94,16 +94,16 @@ namespace GameJam
             // if timer has reached max
             if (timeSinceLastSpawn >= baseSpawnInterval / difficultyModifier)
             {
-                // Spawn a new enemy
-                if (random.Next(2) == 1)
-                {
-                    // %50 chance to spawn meleeEnemy
-                    enemies.Add(new MeleeEnemy(random.Next(2) == 1 ? defaultSpawnPosition : new Vector2(0, defaultSpawnPosition.Y)));
-                }
-                else
-                {
-                    // %50 chance to spawn civilianEnemy
-                    enemies.Add(random.Next(2) == 1 ? new CivilianEnemy(new Vector2(0, defaultSpawnPosition.Y + 200), true) : new CivilianEnemy(defaultSpawnPosition, false));
+                //// Spawn a new enemy
+                //if (random.Next(2) == 1)
+                //{
+                //    // %50 chance to spawn meleeEnemy
+                //    enemies.Add(new MeleeEnemy(random.Next(2) == 1 ? defaultSpawnPosition : new Vector2(0, defaultSpawnPosition.Y)));
+                //}
+                //else
+                //{
+                //    // %50 chance to spawn civilianEnemy
+                //    enemies.Add(random.Next(2) == 1 ? new CivilianEnemy(new Vector2(0, defaultSpawnPosition.Y + 200), true) : new CivilianEnemy(defaultSpawnPosition, false));
                 }
                 // Reset timer
                 timeSinceLastSpawn = 0;
@@ -148,41 +148,41 @@ namespace GameJam
                 lampPost.DrawColorMap(spriteBatch);
             }
 
-            // Draw the enemies
-            foreach (IEnemy enemy in enemies)
-            {
-                enemy.DrawColorMap(spriteBatch);
-            }
-            // Draw player
-            player.DrawColorMap(spriteBatch);
-
-            spriteBatch.End();
-        }
-
-        private static void DrawNormalMap(SpriteBatch spriteBatch)
+        // Draw the enemies
+        foreach (IEnemy enemy in enemies)
         {
-            spriteBatch.Begin();
-
-            // Draw Background
-            spriteBatch.Draw(backgroundNormalMap, new Rectangle(0, 0, Game1.ScreenBounds.X, Game1.ScreenBounds.Y), Color.White);
-            // Draw Platforms and ground
-            spriteBatch.Draw(groundNormalMap, groundRectangle, Color.White);
-            // Draw LampPosts
-            foreach (LampPost lampPost in lampPosts)
-            {
-                lampPost.DrawNormalMap(spriteBatch);
-            }
-
-            // Draw the enemies
-            foreach (IEnemy enemy in enemies)
-            {
-                enemy.DrawNormalMap(spriteBatch);
-            }
-            // Draw player
-            player.DrawNormalMap(spriteBatch);
-
-
-            spriteBatch.End();
+            enemy.DrawColorMap(spriteBatch);
         }
+        // Draw player
+        player.DrawColorMap(spriteBatch);
+
+        spriteBatch.End();
+        }
+
+        //private static void DrawNormalMap(SpriteBatch spriteBatch)
+        //{
+        //    spriteBatch.Begin();
+
+        //// Draw Background
+        //spriteBatch.Draw(backgroundNormalMap, new Rectangle(0, 0, Game1.ScreenBounds.X, Game1.ScreenBounds.Y), Color.White);
+        //// Draw Platforms and ground
+        //spriteBatch.Draw(groundNormalMap, groundRectangle, Color.White);
+        //// Draw LampPosts
+        //foreach (LampPost lampPost in lampPosts)
+        //{
+        //    lampPost.DrawNormalMap(spriteBatch);
+        //}
+
+        //// Draw the enemies
+        //foreach (IEnemy enemy in enemies)
+        //{
+        //    enemy.DrawNormalMap(spriteBatch);
+        //}
+        //// Draw player
+        //player.DrawNormalMap(spriteBatch);
+
+
+        //spriteBatch.End();
+        //}
     }
 }
