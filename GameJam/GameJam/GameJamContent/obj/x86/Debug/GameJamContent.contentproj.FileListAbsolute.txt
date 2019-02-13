@@ -1,1 +1,2 @@
 C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJamContent\obj\x86\Debug\GameJamContent.contentprojResolveAssemblyReference.cache
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJamContent\obj\x86\Debug\GameJamContent.contentprojResolveAssemblyReference.cache

@@ -8,15 +8,15 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJamContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJamContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2019-02-13T10:51:45.7479675+01:00</Value>
+        <Value>2018-09-28T11:24:53.1710605+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
