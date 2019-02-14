@@ -57,23 +57,27 @@
     <Reference Include="System.Net" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CollidableObject.cs" />
-    <Compile Include="Controls.cs" />
+    <Compile Include="ChooseDifficulty.cs" />
+    <Compile Include="CollisionManager.cs" />
+    <Compile Include="Credits.cs" />
     <Compile Include="DynamicLight.cs" />
     <Compile Include="Enemy.cs" />
+    <Compile Include="EnemyManager.cs" />
+    <Compile Include="GameOver.cs" />
     <Compile Include="HighScore.cs" />
     <Compile Include="InGame.cs" />
     <Compile Include="Light.cs" />
     <Compile Include="LightManager.cs" />
     <Compile Include="MainMenu.cs" />
     <Compile Include="MenuControls.cs" />
-    <Compile Include="Player.cs" />
+    <Compile Include="PlayerManager.cs" />
     <Compile Include="PointLight.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="ShotManager.cs" />
-    <Compile Include="SpriteManager.cs" />
+    <Compile Include="Sprite.cs" />
+    <Compile Include="Tutorial.cs" />
     <Compile Include="UtilityClass.cs" />
   </ItemGroup>
   <ItemGroup>

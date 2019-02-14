@@ -55,3 +55,7 @@ C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\TeamHaddock (game
 C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddock\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddock\obj\x86\Debug\TeamHaddock.exe
 C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddock\obj\x86\Debug\TeamHaddock.pdb
+C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddock\obj\x86\Debug\TeamHaddock.csprojResolveAssemblyReference.cache
+C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddock\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddock\obj\x86\Debug\TeamHaddock.exe
+C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddock\obj\x86\Debug\TeamHaddock.pdb

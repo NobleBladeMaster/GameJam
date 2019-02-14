@@ -8,27 +8,101 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace GameJam
 {
-    //public class Enemy
-    //{
-    //    public CollidableObject collidableObject;
+    public class Enemy
+    {
+        public Sprite enemySprite;
+        public Vector2 gunOffset = new Vector2(25, 25);
+        private Queue<Vector2> waypoints = new Queue<Vector2>();
+        private Vector2 currentWaypoint = Vector2.Zero;
+        private float speed = 120f;
+        public bool destroyed = false;
+        private int enemyRadius = 15;
+        private Vector2 previousPosition = Vector2.Zero;
 
-    //    private Color Color { get; set; } = Color.White;
+        // Constructor
+        public Enemy(Texture2D texture, Vector2 position, Rectangle initialFrame, int frameCount)
+        {
+            enemySprite = new Sprite(position, texture, initialFrame, Vector2.Zero);
 
-    //    public Enemy(Texture2D texture, Vector2 position)
-    //    {
-    //        collidableObject = new CollidableObject(texture, position, new Rectangle(120, 0, 60, 120), 0);
-    //    }
+            for (int x = 1; x < frameCount; x++)
+            {
+                enemySprite.AddFrame(new Rectangle(initialFrame.X = (initialFrame.Width * x), initialFrame.Y, initialFrame.Width, initialFrame.Height));
+            }
+            previousPosition = position;
+            currentWaypoint = position;
+            enemySprite.CollisionRadius = enemyRadius;
+        }
 
+        public void AddWaypoint(Vector2 waypoint)
+        {
+            waypoints.Enqueue(waypoint);
+        }
 
-    //    public void Update(GameTime gameTime)
-    //    {
-    //        Color = collidableObject.IsColliding(InGame.player.collidableObject) ? Color.Red : Color.White;
-    //    }
+        public bool WaypointReached()
+        {
+            if (Vector2.Distance(enemySprite.Position, currentWaypoint) < (float)enemySprite.Source.Width / 2)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
 
+        public bool IsActive()
+        {
+            if (destroyed)
+            {
+                return false;
+            }
 
-    //    public void Draw(SpriteBatch spriteBatch)
-    //    {
-    //        spriteBatch.Draw(collidableObject.Texture, collidableObject.Position, collidableObject.SourceRectangle, Color, collidableObject.Rotation, collidableObject.Origin, 1.0f, SpriteEffects.None, 0.0f);
-    //    } 
-    //}
+            if (waypoints.Count > 0)
+            {
+                return true;
+            }
+
+            if (WaypointReached())
+            {
+                return false;
+            }
+
+            return true;
+        }
+
+        // Update
+        public void Update(GameTime gameTime)
+        {
+            if (IsActive())
+            {
+                Vector2 heading = currentWaypoint - enemySprite.Position;
+                if (heading != Vector2.Zero)
+                {
+                    heading.Normalize();
+                }
+                heading *= speed;
+                enemySprite.Velocity = heading;
+                previousPosition = enemySprite.Position;
+                enemySprite.Update(gameTime);
+                enemySprite.Rotation = (float)Math.Atan2(enemySprite.Position.Y - previousPosition.Y, enemySprite.Position.X - previousPosition.X);
+
+                if (WaypointReached())
+                {
+                    if (waypoints.Count > 0)
+                    {
+                        currentWaypoint = waypoints.Dequeue();
+                    }
+                }
+            }
+        }
+
+        // Draw
+        public void Draw(SpriteBatch spriteBatch)
+        {
+            if (IsActive())
+            {
+                enemySprite.Draw(spriteBatch);
+            }
+        }
+    }
 }

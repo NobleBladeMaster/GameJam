@@ -138,6 +138,11 @@ namespace GameJam
             DoSave(currentData, FileName);
         }
 
+        public static void Update(GameTime gameTime)
+        {
+
+        }
+
         public static void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Begin();

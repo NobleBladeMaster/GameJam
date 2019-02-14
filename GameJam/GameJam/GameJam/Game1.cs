@@ -18,10 +18,9 @@ namespace GameJam
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-        CollidableObject collidableObject;
-        Player player;
+        PlayerManager player;
         ShotManager shotManager;
-        SpriteManager spriteManager;
+        Sprite spriteManager;
         Texture2D playerPic;
 
 
@@ -30,9 +29,6 @@ namespace GameJam
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
         }
-
-        // asdlkdsalkjsadlkjsdajl
-
 
         public enum GameStates : byte
         {
@@ -43,11 +39,12 @@ namespace GameJam
             Credits,
             Exit,
             GameOver,
+            ChooseDifficulty, 
         }
 
         public static Point ScreenBounds { get; } = new Point(1280, 720);
 
-        public static GameStates GameState = GameStates.MainMenu;
+        public static GameStates gameState = GameStates.MainMenu;
         public static SpriteFont NormalMenuFont;
         public static SpriteFont BoldMenuFont;
 
@@ -65,6 +62,11 @@ namespace GameJam
         {
             // TODO: Add your initialization logic here
 
+            // Set window size to ScreenBounds
+            graphics.PreferredBackBufferWidth = ScreenBounds.X;
+            graphics.PreferredBackBufferHeight = ScreenBounds.Y;
+            graphics.ApplyChanges();
+
             base.Initialize();
         }
 
@@ -79,7 +81,16 @@ namespace GameJam
 
             Rectangle screenBounds = new Rectangle(0, 0, this.Window.ClientBounds.Width, this.Window.ClientBounds.Height);
 
-            player = new Player(Content.Load<Texture2D>(@"Textures/Avilda - Front"), 1, 42, 92, screenBounds);
+            player = new PlayerManager(Content.Load<Texture2D>(@"Textures/Avilda - Front"), 1, 42, 92, screenBounds);
+
+            MainMenu.LoadContent(Content);
+            InGame.LoadContent(Content);
+            Tutorial.LoadContent(Content);
+            Credits.LoadContent(Content);
+            ChooseDifficulty.LoadContent(Content);
+            HighScore.LoadContent(Content);
+            GameOver.LoadContent(Content);
+
 
             // TODO: use this.Content to load your game content here
         }
@@ -104,18 +115,31 @@ namespace GameJam
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-            switch (GameState)
+            switch (gameState)
             {
                 case GameStates.MainMenu:
-                    MainMenu.Update();
+                    MainMenu.Update(gameTime);
                     break;
-              
+                case GameStates.InGame:
+                    InGame.Update(gameTime);
+                    break;
+                case GameStates.Tutorial:
+                    InGame.Update(gameTime);
+                    break;
+                case GameStates.Credits:
+                    InGame.Update(gameTime);
+                    break;
                 case GameStates.Exit:
                     this.Exit();
                     break;
+                case GameStates.ChooseDifficulty:
+                    ChooseDifficulty.Update(gameTime);
+                    break;
                 case GameStates.HighScore:
+                    HighScore.Update(gameTime);
                     break;
                 case GameStates.GameOver:
+                    GameOver.Update(gameTime);
                     break;
                 default:
                     throw new ArgumentOutOfRangeException();
@@ -127,11 +151,6 @@ namespace GameJam
 
             base.Update(gameTime);
 
-
-            player.Update(gameTime);
-
-
-            player.HandleSpriteMovement(gameTime);
         }
 
         /// <summary>
@@ -140,15 +159,43 @@ namespace GameJam
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(Color.White);
 
             // TODO: Add your drawing code here
 
             spriteBatch.Begin();
 
-            spriteBatch.Draw(pl)
+            switch (gameState)
+            {
+                case GameStates.MainMenu:
+                    MainMenu.Draw(spriteBatch);
+                    break;
+                case GameStates.InGame:
+                    InGame.Draw(spriteBatch);
+                    break;
+                case GameStates.Tutorial:
+                    InGame.Draw(spriteBatch);
+                    break;
+                case GameStates.Credits:
+                    InGame.Draw(spriteBatch);
+                    break;
+                case GameStates.Exit:
+                    this.Exit();
+                    break;
+                case GameStates.ChooseDifficulty:
+                    ChooseDifficulty.Draw(spriteBatch);
+                    break;
+                case GameStates.HighScore:
+                    HighScore.Draw(spriteBatch);
+                    break;
+                case GameStates.GameOver:
+                    GameOver.Draw(spriteBatch);
+                    break;
+                default:
+                    throw new ArgumentOutOfRangeException();
+            }
 
-            player.Draw(spriteBatch);
+
 
             spriteBatch.End();
 

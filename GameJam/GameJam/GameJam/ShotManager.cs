@@ -9,18 +9,17 @@ namespace GameJam
 {
   public class ShotManager
     {
-        // Variables
+        public List<Sprite> Shots = new List<Sprite>();
+        private Rectangle screenBounds;
+
         private static Texture2D Texture;
         private static Rectangle InitialFrame;
         private static int FrameCount;
+        private float shotSpeed;
         private static int CollisionRadius;
-        private readonly float shotSpeed;
-        private Rectangle screenBounds;
-        public List<SpriteManager> Shots = new List<SpriteManager>();
 
         // Constructor
-        public ShotManager(Texture2D texture, Rectangle initialFrame, int frameCount, int collisionRadius,
-            float shotSpeed, Rectangle screenBounds)
+        public ShotManager(Texture2D texture, Rectangle initialFrame, int frameCount, int collisionRadius, float shotSpeed, Rectangle screenBounds)
         {
             Texture = texture;
             InitialFrame = initialFrame;
@@ -33,31 +32,36 @@ namespace GameJam
         // Fireshot
         public void FireShot(Vector2 position, Vector2 velocity, bool playerFired)
         {
-            var thisShot = new SpriteManager(position, Texture, InitialFrame, velocity);
+            Sprite thisShot = new Sprite(position, Texture, InitialFrame, velocity);
 
             thisShot.Velocity *= shotSpeed;
 
-            for (var i = 1; i < FrameCount; i++)
-                thisShot.AddFrame(new Rectangle(InitialFrame.X + InitialFrame.Width * i, InitialFrame.Y,
-                    InitialFrame.Width, InitialFrame.Height));
+            for (int i = 1; i < FrameCount; i++)
+            {
+                thisShot.AddFrame(new Rectangle(InitialFrame.X + (InitialFrame.Width * i), InitialFrame.Y, InitialFrame.Width, InitialFrame.Height));
+            }
             thisShot.CollisionRadius = CollisionRadius;
             Shots.Add(thisShot);
         }
 
-        // Update 
         public void Update(GameTime gameTime)
         {
-            for (var i = Shots.Count - 1; i >= 0; i--)
+            for (int i = Shots.Count - 1; i >= 0; i--)
             {
                 Shots[i].Update(gameTime);
-                if (!screenBounds.Intersects(Shots[i].Destination)) Shots.RemoveAt(i);
+                if (!screenBounds.Intersects(Shots[i].Destination))
+                {
+                    Shots.RemoveAt(i);
+                }
             }
         }
 
-        // Draw
         public void Draw(SpriteBatch spriteBatch)
         {
-            foreach (var shot in Shots) shot.Draw(spriteBatch);
+            foreach (Sprite shot in Shots)
+            {
+                shot.Draw(spriteBatch);
+            }
         }
     }
 }

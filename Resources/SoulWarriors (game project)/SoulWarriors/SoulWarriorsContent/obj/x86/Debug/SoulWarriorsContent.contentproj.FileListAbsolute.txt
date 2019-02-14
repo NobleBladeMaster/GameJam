@@ -1,2 +1,3 @@
 C:\Users\Noble Johansson\Downloads\Gitkraken save\SoulWarrior\SoulWarriors\SoulWarriors\SoulWarriorsContent\obj\x86\Debug\SoulWarriorsContent.contentprojResolveAssemblyReference.cache
 C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriorsContent\obj\x86\Debug\SoulWarriorsContent.contentprojResolveAssemblyReference.cache
+C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriorsContent\obj\x86\Debug\SoulWarriorsContent.contentprojResolveAssemblyReference.cache

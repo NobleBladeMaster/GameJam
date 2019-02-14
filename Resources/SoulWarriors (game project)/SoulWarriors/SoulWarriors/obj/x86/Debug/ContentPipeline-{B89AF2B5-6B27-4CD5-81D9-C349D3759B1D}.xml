@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Chain.xnb</Output>
-      <Time>2019-02-13T10:30:37.4095073+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Chain.xnb</Output>
+      <Time>2019-01-26T22:08:56.2714757+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\WorldBackground.jpg</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\WorldBackground.xnb</Output>
-      <Time>2019-02-13T10:30:37.5569897+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\WorldBackground.xnb</Output>
+      <Time>2019-01-26T21:53:31.4462443+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\ArcherSpriteSheet.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\ArcherSpriteSheet.xnb</Output>
-      <Time>2019-02-13T10:30:37.4064993+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\ArcherSpriteSheet.xnb</Output>
+      <Time>2019-01-04T16:26:48.3703353+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\KnightSpriteSheet.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\KnightSpriteSheet.xnb</Output>
-      <Time>2019-02-13T10:30:37.4205367+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\KnightSpriteSheet.xnb</Output>
+      <Time>2019-01-04T16:26:48.3713323+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\Selection.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Selection.xnb</Output>
-      <Time>2019-02-13T10:30:37.4325691+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Selection.xnb</Output>
+      <Time>2019-01-26T21:53:31.4402607+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\MainMenuBackground.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\MainMenuBackground.xnb</Output>
-      <Time>2019-02-13T10:30:37.4215402+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\MainMenuBackground.xnb</Output>
+      <Time>2019-01-26T22:08:56.2764623+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\Menu0_button1.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu0_button1.xnb</Output>
-      <Time>2019-02-13T10:30:37.4185318+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu0_button1.xnb</Output>
+      <Time>2019-01-26T21:53:31.4362714+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\Button1.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Button1.xnb</Output>
-      <Time>2019-02-13T10:30:37.4155238+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Button1.xnb</Output>
+      <Time>2019-01-26T22:08:56.2764623+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\Menu0_button2.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu0_button2.xnb</Output>
-      <Time>2019-02-13T10:30:37.4215402+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu0_button2.xnb</Output>
+      <Time>2019-01-26T21:53:31.4392634+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\Menu1_background.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu1_background.xnb</Output>
-      <Time>2019-02-13T10:30:37.4225429+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu1_background.xnb</Output>
+      <Time>2019-01-26T21:53:31.4402607+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\Menu1_button0.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu1_button0.xnb</Output>
-      <Time>2019-02-13T10:30:37.4335718+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Textures\Menu\Menu1_button0.xnb</Output>
+      <Time>2019-01-26T21:53:31.4392634+01:00</Time>
     </Item>
     <Item>
       <Source>Fonts\DebugFont.spritefont</Source>
@@ -106,8 +106,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Fonts\DebugFont.xnb</Output>
-      <Time>2019-02-13T10:30:37.3924624+01:00</Time>
+      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\Fonts\DebugFont.xnb</Output>
+      <Time>2019-01-04T16:26:48.3723296+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -116,39 +116,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriorsContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriorsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\SoulWarriors (game project)\SoulWarriors\SoulWarriors\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2011-09-01T17:22:30+02:00</Value>
+        <Value>2011-09-01T16:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2011-09-01T17:22:30+02:00</Value>
+        <Value>2011-09-01T16:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2011-09-01T17:22:30+02:00</Value>
+        <Value>2011-09-01T16:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2011-09-01T17:22:30+02:00</Value>
+        <Value>2011-09-01T16:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2011-09-01T17:22:30+02:00</Value>
+        <Value>2011-09-01T16:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2011-09-01T17:22:30+02:00</Value>
+        <Value>2011-09-01T16:22:30+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2019-02-13T10:51:45.7479675+01:00</Value>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-20T13:21:22.7253159+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
