@@ -150,7 +150,7 @@ namespace GameJam
 
                         shotDirection.Normalize();
 
-                        enemyShotManager.FireShot(fireLoc, shotDirection, false);
+                        enemyShotManager.Attack(fireLoc, shotDirection, false);
                     }
                 }
             }

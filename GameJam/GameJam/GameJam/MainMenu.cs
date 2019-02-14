@@ -22,6 +22,9 @@ namespace GameJam
         /// </summary>
         private static Vector2 selected;
 
+
+
+        
         /// <summary>
         /// Mainmenu background image
         /// </summary>
@@ -91,6 +94,8 @@ namespace GameJam
 
             // Draw background in whole window
             spriteBatch.Draw(background, new Rectangle(0, 0, Game1.ScreenBounds.X, Game1.ScreenBounds.Y), Color.White);
+
+            
 
             // Iterate through every entry in menuOptionsStr array
             for (int i = 0; i < MenuOptionsStr.Length; i++)

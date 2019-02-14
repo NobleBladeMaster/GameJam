@@ -23,7 +23,7 @@ namespace GameJam
 
         private void CheckShotToEnemyCollisions()
         {
-            foreach (Sprite shot in playerManager.PlayerShotManager.Shots)
+            foreach (Sprite shot in playerManager.PlayerShotManager.Attacks)
             {
                 foreach (Enemy enemy in enemyManager.Enemies)
                 {
@@ -40,7 +40,7 @@ namespace GameJam
 
         private void CheckShotToPlayerCollisions()
         {
-            foreach (Sprite shot in enemyManager.enemyShotManager.Shots)
+            foreach (Sprite shot in enemyManager.enemyShotManager.Attacks)
             {
                 if (shot.IsCircleColliding(playerManager.Center, playerManager.collisionRadius))
                 {

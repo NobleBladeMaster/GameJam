@@ -9,10 +9,13 @@ using Microsoft.Xna.Framework.Graphics;
 // Class created by Alexander 11-07
 namespace GameJam
 {
-
         public static class InGame
     {
-        
+        static PlayerManager player;
+        private static SpriteBatch spriteBatch;
+        static private Rectangle screenBounds;
+        private static Sprite sprites;
+
         public static void LoadContent(ContentManager content)
         {
            
@@ -20,14 +23,14 @@ namespace GameJam
 
         public static void Update(GameTime gameTime)
         {
-          
+            
         }
 
         public static void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Begin();
-
-
+            
+            
             spriteBatch.End();
         }
        

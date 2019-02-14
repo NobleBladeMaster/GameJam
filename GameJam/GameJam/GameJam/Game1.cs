@@ -22,6 +22,11 @@ namespace GameJam
         ShotManager shotManager;
         Sprite spriteManager;
         Texture2D playerPic;
+        Texture2D level1pic;
+        Rectangle screenBounds;
+       Vector2 level1pos = new Vector2(0, 0);
+        
+        //private PlayerManager playerSprite;
 
 
         public Game1()
@@ -42,7 +47,7 @@ namespace GameJam
             ChooseDifficulty, 
         }
 
-        public static Point ScreenBounds { get; } = new Point(1280, 720);
+        public static Point ScreenBounds { get; } = new Point(1040, 620);
 
         public static GameStates gameState = GameStates.MainMenu;
         public static SpriteFont NormalMenuFont;
@@ -78,11 +83,13 @@ namespace GameJam
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-
+            player = new PlayerManager(Content.Load<Texture2D>(@"Textures/Test"), 1, 40, 60, this.screenBounds);
             Rectangle screenBounds = new Rectangle(0, 0, this.Window.ClientBounds.Width, this.Window.ClientBounds.Height);
-
-            player = new PlayerManager(Content.Load<Texture2D>(@"Textures/Avilda - Front"), 1, 42, 92, screenBounds);
-
+            level1pic = Content.Load<Texture2D>(@"Textures/level1");
+           
+            //playerPic = Content.Load<Texture2D>(@"Textures/Avilda - Front");
+            Console.WriteLine(player.Velocity);
+           
             MainMenu.LoadContent(Content);
             InGame.LoadContent(Content);
             Tutorial.LoadContent(Content);
@@ -91,6 +98,7 @@ namespace GameJam
             HighScore.LoadContent(Content);
             GameOver.LoadContent(Content);
 
+            player.Position = new Vector2(0,0);
 
             // TODO: use this.Content to load your game content here
         }
@@ -114,11 +122,107 @@ namespace GameJam
             // Allows the game to exit
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
+            KeyboardState keyBoard = new KeyboardState();
 
+            if (keyBoard.IsKeyDown(Keys.End))
+            {
+                this.Exit();
+            }
+            Console.WriteLine(player.Position);
+
+            
             switch (gameState)
             {
                 case GameStates.MainMenu:
                     MainMenu.Update(gameTime);
+                    player.HandleSpriteMovement(gameTime);
+                    player.Update(gameTime);
+
+                    if (player.position.X > 10 && player.position.X < 137 && player.position.Y == 144)
+                    {
+                        player.position.Y -= player.walkingSpeed;
+
+
+                    }
+
+                    if (player.position.X > 10 && player.position.X < 137 && player.position.Y == 168)
+                    {
+                        player.position.Y += player.walkingSpeed;
+
+
+                    }
+
+
+
+                    if (player.position.X > 10 && player.position.X < 137 && player.position.Y == 342)
+                    {
+                        player.position.Y -= player.walkingSpeed;
+
+
+                    }
+
+
+                    if (player.position.X > 10 && player.position.X < 137 && player.position.Y == 373)
+                    {
+                        player.position.Y += player.walkingSpeed;
+
+
+                    }
+
+                    if (player.position.X > 184 && player.position.X < 482 && player.position.Y == 341)
+                    {
+                        player.position.Y -= player.walkingSpeed;
+
+
+                    }
+
+                    if (player.position.X > 184 && player.position.X < 482 && player.position.Y == 140)
+                    {
+                        player.position.Y -= player.walkingSpeed;
+
+
+                    }
+
+                    if (player.position.X > 184 && player.position.X < 482 && player.position.Y == 371)
+                    {
+                        player.position.Y += player.walkingSpeed;
+
+
+                    }
+
+                    if (player.position.X > 184 && player.position.X < 482 && player.position.Y == 160)
+                    {
+                        player.position.Y += player.walkingSpeed;
+
+
+                    }
+
+                    if (player.position.Y > 84 && player.position.Y < 422 && player.position.X == 312)
+                    {
+                        player.position.X -= player.walkingSpeed;
+                    }
+
+
+                    if (player.position.Y > 84 && player.position.Y < 422 && player.position.X == 346)
+                    {
+                        player.position.X += player.walkingSpeed;
+                    }
+
+                    if (player.position.Y > -15 && player.position.Y < 14 && player.position.X == 346)
+                    {
+                        player.position.X += player.walkingSpeed;
+                    }
+
+                    if (player.position.Y > -15 && player.position.Y < 14 && player.position.X == 312)
+                    {
+                        player.position.X -= player.walkingSpeed;
+                    }
+
+
+                    //player.AnimateLeft(gameTime);
+                    // player.AnimateDown(gameTime);
+                    // player.AnimateRight(gameTime);
+                    // player.AnimateUp(gameTime);
                     break;
                 case GameStates.InGame:
                     InGame.Update(gameTime);
@@ -164,36 +268,45 @@ namespace GameJam
             // TODO: Add your drawing code here
 
             spriteBatch.Begin();
+            
+            spriteBatch.Draw(level1pic, level1pos, Color.White);
+            spriteBatch.Draw(player.Texture, player.Position, player.SourceRect, Color.White);
+            player.Draw(spriteBatch);
 
-            switch (gameState)
-            {
-                case GameStates.MainMenu:
-                    MainMenu.Draw(spriteBatch);
-                    break;
-                case GameStates.InGame:
-                    InGame.Draw(spriteBatch);
-                    break;
-                case GameStates.Tutorial:
-                    InGame.Draw(spriteBatch);
-                    break;
-                case GameStates.Credits:
-                    InGame.Draw(spriteBatch);
-                    break;
-                case GameStates.Exit:
-                    this.Exit();
-                    break;
-                case GameStates.ChooseDifficulty:
-                    ChooseDifficulty.Draw(spriteBatch);
-                    break;
-                case GameStates.HighScore:
-                    HighScore.Draw(spriteBatch);
-                    break;
-                case GameStates.GameOver:
-                    GameOver.Draw(spriteBatch);
-                    break;
-                default:
-                    throw new ArgumentOutOfRangeException();
-            }
+
+
+
+            //switch (gameState)
+            //{
+            //    case GameStates.MainMenu:
+            //        MainMenu.Draw(spriteBatch);
+            //        player.HandleSpriteMovement(gameTime);
+            //        player.Update(gameTime);
+            //        break;
+            //    case GameStates.InGame:
+            //        InGame.Draw(spriteBatch);
+            //        break;
+            //    case GameStates.Tutorial:
+            //        InGame.Draw(spriteBatch);
+            //        break;
+            //    case GameStates.Credits:
+            //        InGame.Draw(spriteBatch);
+            //        break;
+            //    case GameStates.Exit:
+            //        this.Exit();
+            //        break;
+            //    case GameStates.ChooseDifficulty:
+            //        ChooseDifficulty.Draw(spriteBatch);
+            //        break;
+            //    case GameStates.HighScore:
+            //        HighScore.Draw(spriteBatch);
+            //        break;
+            //    case GameStates.GameOver:
+            //        GameOver.Draw(spriteBatch);
+            //        break;
+            //    default:
+            //        throw new ArgumentOutOfRangeException();
+            //}
 
 
 

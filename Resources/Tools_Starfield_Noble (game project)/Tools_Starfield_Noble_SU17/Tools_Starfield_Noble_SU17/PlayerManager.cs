@@ -114,10 +114,11 @@ namespace Tools_Starfield_Noble_SU17
         private void FireShotUp()
         {
             if (shotTimer >= minShotTimer)
-            {
-                PlayerShotManager.FireShot(position + gunOffset, new Vector2(1, 0), true);
+
+            { 
+        PlayerShotManager.FireShot(position + gunOffset, new Vector2(1, 0), true);
                 shotTimer = 0.0f;
-            }
+          }
         }
 
         public void HandleSpriteMovement(GameTime gameTime)

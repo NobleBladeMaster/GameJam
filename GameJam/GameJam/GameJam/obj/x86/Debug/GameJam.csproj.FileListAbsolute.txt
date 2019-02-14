@@ -36,3 +36,20 @@ C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJa
 C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
 C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
 C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\GameJam.exe
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\GameJam.pdb
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\Avilda - Front.xnb
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\GameJam.exe
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\GameJam.pdb
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\Test.xnb
+C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\level1.xnb
