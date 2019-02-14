@@ -1,3 +1,4 @@
 C:\Users\Noble Johansson\Downloads\Gitkraken save\TeamHaddockHT18\TeamHaddock\TeamHaddock\TeamHaddockContent\obj\x86\Debug\TeamHaddockContent.contentprojResolveAssemblyReference.cache
 C:\Users\filip.hultbrand\Downloads\GitKraken\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddockContent\obj\x86\Debug\TeamHaddockContent.contentprojResolveAssemblyReference.cache
 C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddockContent\obj\x86\Debug\TeamHaddockContent.contentprojResolveAssemblyReference.cache
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\TeamHaddock (game project)\TeamHaddock\TeamHaddockContent\obj\x86\Debug\TeamHaddockContent.contentprojResolveAssemblyReference.cache

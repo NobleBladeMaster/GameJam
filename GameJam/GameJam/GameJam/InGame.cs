@@ -10,12 +10,17 @@ using Microsoft.Xna.Framework.Graphics;
 namespace GameJam
 {
 
+
         public static class InGame
     {
-        
+        private static Texture2D level1;
+
         public static void LoadContent(ContentManager content)
         {
-           
+
+            level1 = content.Load<Texture2D>(@"Textures/TestBackgrounds/Level1");
+
+
         }
 
         public static void Update(GameTime gameTime)
@@ -25,10 +30,11 @@ namespace GameJam
 
         public static void Draw(SpriteBatch spriteBatch)
         {
-            spriteBatch.Begin();
 
 
-            spriteBatch.End();
+            //spriteBatch.Draw(level1, new Rectangle(0, 0, Game1.ScreenBounds.X, Game1.ScreenBounds.Y), Color.White);
+
+
         }
        
     

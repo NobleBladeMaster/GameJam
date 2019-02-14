@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scores>
+    <HighScoreEntry>
+      <name>default</name>
+      <score>0</score>
+    </HighScoreEntry>
+  </Scores>
+</SaveData>

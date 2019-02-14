@@ -52,6 +52,10 @@ namespace GameJam
         public static SpriteFont BoldCreditsFont;
         public static SpriteFont CreditsTitleFont;
 
+        public delegate void FinalActionsDelegate();
+
+        public static FinalActionsDelegate finalActionsDelegate = () => { Console.WriteLine("Started Delegate"); };
+
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
         /// This is where it can query for any required services and load any non-graphic
@@ -66,6 +70,8 @@ namespace GameJam
             graphics.PreferredBackBufferWidth = ScreenBounds.X;
             graphics.PreferredBackBufferHeight = ScreenBounds.Y;
             graphics.ApplyChanges();
+
+            HighScore.Initilize();
 
             base.Initialize();
         }
@@ -83,6 +89,13 @@ namespace GameJam
 
             player = new PlayerManager(Content.Load<Texture2D>(@"Textures/Avilda - Front"), 1, 42, 92, screenBounds);
 
+            NormalMenuFont = Content.Load<SpriteFont>(@"Fonts/NormalMenuFont");
+            BoldMenuFont = Content.Load<SpriteFont>(@"Fonts/BoldMenuFont");
+
+            CreditsFont = Content.Load<SpriteFont>(@"Fonts/CreditsFont");
+            BoldCreditsFont = Content.Load<SpriteFont>(@"Fonts/BoldCreditsFont");
+            CreditsTitleFont = Content.Load<SpriteFont>(@"Fonts/CreditsTitleFont");
+
             MainMenu.LoadContent(Content);
             InGame.LoadContent(Content);
             Tutorial.LoadContent(Content);
@@ -91,6 +104,7 @@ namespace GameJam
             HighScore.LoadContent(Content);
             GameOver.LoadContent(Content);
 
+            gameState = GameStates.MainMenu;
 
             // TODO: use this.Content to load your game content here
         }
@@ -114,6 +128,8 @@ namespace GameJam
             // Allows the game to exit
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
+
+            UtilityClass.Update();
 
             switch (gameState)
             {
@@ -145,7 +161,10 @@ namespace GameJam
                     throw new ArgumentOutOfRangeException();
             }
 
-
+            if (UtilityClass.SingleActivationKey(Keys.Escape))
+            {
+                LoadContent();
+            }
 
             // TODO: Add your update logic here
 
@@ -196,6 +215,13 @@ namespace GameJam
             }
 
 
+            if (!finalActionsDelegate.Equals(new FinalActionsDelegate(() => { })))
+            {
+                
+                finalActionsDelegate();
+                
+                finalActionsDelegate = () => { };
+            }
 
             spriteBatch.End();
 

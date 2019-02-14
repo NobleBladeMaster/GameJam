@@ -1,1 +1,10 @@
 Content\Textures\Avilda - Front.xnb
+Content\Textures\TestBackgrounds\HighScoreBackGround.xnb
+Content\Fonts\NormalMenuFont.xnb
+Content\Fonts\BoldMenuFont.xnb
+Content\Textures\TestBackgrounds\MainMenuBackground.xnb
+Content\Textures\TestBackgrounds\level1.xnb
+Content\Textures\TestBackgrounds\Credits.xnb
+Content\Fonts\CreditsFont.xnb
+Content\Fonts\BoldCreditsFont.xnb
+Content\Fonts\CreditsTitleFont.xnb

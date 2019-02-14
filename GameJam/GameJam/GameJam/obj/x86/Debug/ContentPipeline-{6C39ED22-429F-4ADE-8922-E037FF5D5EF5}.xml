@@ -7,20 +7,101 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\Avilda - Front.xnb</Output>
-      <Time>2019-02-14T04:29:54.3017228+01:00</Time>
+      <Output>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\Avilda - Front.xnb</Output>
+      <Time>2019-02-13T16:05:59.0382688+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TestBackgrounds\1_QRjybL0B_rVc_xozsZIYBQ.png</Source>
+      <Name>Textures\TestBackgrounds\HighScoreBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\HighScoreBackGround.xnb</Output>
+      <Time>2019-02-14T09:35:39.9218269+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\NormalMenuFont.spritefont</Source>
+      <Name>Fonts\NormalMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\NormalMenuFont.xnb</Output>
+      <Time>2019-02-14T09:45:41.8688332+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BoldMenuFont.spritefont</Source>
+      <Name>Fonts\BoldMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\BoldMenuFont.xnb</Output>
+      <Time>2019-02-14T09:54:35.5906016+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TestBackgrounds\Menu.png</Source>
+      <Name>Textures\TestBackgrounds\MainMenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\MainMenuBackground.xnb</Output>
+      <Time>2019-02-14T10:28:33.153404+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TestBackgrounds\Village_Level 1.png</Source>
+      <Name>Textures\TestBackgrounds\level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\level1.xnb</Output>
+      <Time>2019-02-14T11:10:44.5147614+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TestBackgrounds\Example_movie_end_credits.png</Source>
+      <Name>Textures\TestBackgrounds\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\Credits.xnb</Output>
+      <Time>2019-02-14T09:34:50.0893001+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\CreditsFont.spritefont</Source>
+      <Name>Fonts\CreditsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\CreditsFont.xnb</Output>
+      <Time>2019-02-14T12:16:07.7609344+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BoldCreditsFont.spritefont</Source>
+      <Name>Fonts\BoldCreditsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\BoldCreditsFont.xnb</Output>
+      <Time>2019-02-14T12:17:30.8504012+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\CreditsTitleFont.spritefont</Source>
+      <Name>Fonts\CreditsTitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\CreditsTitleFont.xnb</Output>
+      <Time>2019-02-14T12:17:07.8674579+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{6C39ED22-429F-4ADE-8922-E037FF5D5EF5}</ContentProjectGUID>
       <TargetPlatform>Windows</TargetPlatform>
-      <TargetProfile>Reach</TargetProfile>
+      <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJamContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJam\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJamContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -48,8 +129,8 @@
         <Value>2011-09-01T16:22:30+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2018-05-20T13:21:22.7253159+02:00</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-09-28T11:24:53.1710605+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

@@ -38,10 +38,10 @@ namespace GameJam
         /// <param name="content"></param>
         public static void LoadContent(ContentManager content)
         {
-            //background = content.Load<Texture2D>(@"Textures/Backgrounds/MainMenuBackground");
+            background = content.Load<Texture2D>(@"Textures/TestBackgrounds/MainMenuBackground");
         }
 
-    
+
         /// <summary>
         /// Updates MainMenu gamestate logic
         /// </summary>
@@ -87,7 +87,7 @@ namespace GameJam
         /// <param name="spriteBatch">Enables a group of sprites to be drawn using the same settings.</param>
         public static void Draw(SpriteBatch spriteBatch)
         {
-            spriteBatch.Begin();
+            
 
             // Draw background in whole window
             spriteBatch.Draw(background, new Rectangle(0, 0, Game1.ScreenBounds.X, Game1.ScreenBounds.Y), Color.White);
@@ -99,7 +99,7 @@ namespace GameJam
                 spriteBatch.DrawString((int)selected.X == i ? Game1.BoldMenuFont : Game1.NormalMenuFont, MenuOptionsStr[i], new Vector2(200 + 200 * i, 400), Color.White);
             }
 
-            spriteBatch.End();
+           
         }
     }
 }

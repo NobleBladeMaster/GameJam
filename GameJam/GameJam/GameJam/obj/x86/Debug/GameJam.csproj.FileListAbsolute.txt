@@ -36,3 +36,12 @@ C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJa
 C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
 C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
 C:\Users\Noble Johansson\Downloads\Gitkraken save\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\MainMenuBackground.xnb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\HighScoreBackGround.xnb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\NormalMenuFont.xnb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\BoldMenuFont.xnb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\level1.xnb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\Credits.xnb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\CreditsFont.xnb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\BoldCreditsFont.xnb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\CreditsTitleFont.xnb
