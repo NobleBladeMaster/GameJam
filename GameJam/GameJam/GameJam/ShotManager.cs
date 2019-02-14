@@ -12,6 +12,9 @@ namespace GameJam
         public List<Sprite> Shots = new List<Sprite>();
         private Rectangle screenBounds;
 
+        // Exempel
+
+
         private static Texture2D Texture;
         private static Rectangle InitialFrame;
         private static int FrameCount;
