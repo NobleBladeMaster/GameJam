@@ -22,6 +22,13 @@ namespace GameJam
         ShotManager shotManager;
         Sprite spriteManager;
         Texture2D playerPic;
+        DynamicLight light;
+        Texture2D Background;
+        Texture2D BackgroundNormals;
+
+
+
+        private List<Light> Lights = new List<Light>();
 
 
         public Game1()
@@ -39,7 +46,7 @@ namespace GameJam
             Credits,
             Exit,
             GameOver,
-            ChooseDifficulty, 
+            ChooseDifficulty,
         }
 
         public static Point ScreenBounds { get; } = new Point(1280, 720);
@@ -95,6 +102,20 @@ namespace GameJam
             CreditsFont = Content.Load<SpriteFont>(@"Fonts/CreditsFont");
             BoldCreditsFont = Content.Load<SpriteFont>(@"Fonts/BoldCreditsFont");
             CreditsTitleFont = Content.Load<SpriteFont>(@"Fonts/CreditsTitleFont");
+            Background = Content.Load<Texture2D>(@"Background");
+            BackgroundNormals = Content.Load<Texture2D>(@"Background Normal");
+
+
+            Lights.Add(new PointLight()
+            {
+                IsEnabled = true,
+                Color = new Vector4(2.0f, 2.0f, 2.0f, 2.0f),
+
+                Power = 0.7f,
+                LightDecay = 300,
+                Position = new Vector3(100, 100, 80)
+
+            });
 
             MainMenu.LoadContent(Content);
             InGame.LoadContent(Content);
@@ -178,7 +199,7 @@ namespace GameJam
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.White);
+            GraphicsDevice.Clear(Color.Black);
 
             // TODO: Add your drawing code here
 
@@ -217,15 +238,18 @@ namespace GameJam
 
             if (!finalActionsDelegate.Equals(new FinalActionsDelegate(() => { })))
             {
-                
+
                 finalActionsDelegate();
-                
+
                 finalActionsDelegate = () => { };
             }
+
 
             spriteBatch.End();
 
             base.Draw(gameTime);
         }
+
+       
     }
 }

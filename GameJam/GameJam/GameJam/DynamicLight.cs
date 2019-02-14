@@ -9,6 +9,7 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace GameJam
 
+{ 
     public class DynamicLight
     {
         private RenderTarget2D colorMapRenderTarget;
@@ -165,12 +166,33 @@ namespace GameJam
         {
             graphicsDevice.SetRenderTarget(colorMapRenderTarget);
             graphicsDevice.Clear(Color.Transparent);
-        }
+            DrawColorMap(graphicsDevice);
 
-        public void DrawNormalMap(GraphicsDevice graphicsDevice)
+            graphicsDevice.SetRenderTarget(null);
+
+        GenerateShadowMap(graphicsDevice);
+           
+    }
+
+
+
+
+    public void DrawNormalMap(GraphicsDevice graphicsDevice)
         {
             graphicsDevice.SetRenderTarget(normalMapRenderTarget);
             graphicsDevice.Clear(Color.Transparent);
+            DrawNormalMap(graphicsDevice);
+
+            graphicsDevice.SetRenderTarget(null);
+
+              
         }
-    }
+
+      
+
+
+
+
+
+}
 }

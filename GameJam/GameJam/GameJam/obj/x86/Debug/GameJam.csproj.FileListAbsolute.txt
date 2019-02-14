@@ -45,3 +45,32 @@ C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\
 C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\CreditsFont.xnb
 C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\BoldCreditsFont.xnb
 C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\CreditsTitleFont.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\Backgrounds\HighScoreBackGround.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\Avilda - Front.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\Credits.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\HighScoreBackGround.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\MainMenuBackground.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\Level1.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\NormalMenuFont.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\BoldMenuFont.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\CreditsFont.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\BoldCreditsFont.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\CreditsTitleFont.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\GameJam.exe
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\GameJam.pdb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\GameJam.csprojResolveAssemblyReference.cache
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\GameJam.exe
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\GameJam.pdb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Background.xnb
+C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Background Normal.xnb
