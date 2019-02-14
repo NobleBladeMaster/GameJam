@@ -30,6 +30,13 @@
     <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.VideoImporters, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Textures\Backgrounds\dc486960-701e-421b-b145-70d04f3b85be.jpg">
+      <Name>HighScoreBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="Textures\Avilda - Front.png">
       <Name>Avilda - Front</Name>
       <Importer>TextureImporter</Importer>

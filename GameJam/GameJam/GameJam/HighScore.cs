@@ -60,7 +60,7 @@ namespace GameJam
             }
         }
 
-        public static void LoadContent(ContentManager content)
+       public static void LoadContent(ContentManager content)
         {
             background = content.Load<Texture2D>(@"Textures/TestBackgrounds/HighScoreBackGround");
             scoreFont = content.Load<SpriteFont>(@"Fonts/CreditsTitleFont");

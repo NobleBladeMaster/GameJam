@@ -6,8 +6,9 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 
+
 namespace GameJam
-{
+
     public class DynamicLight
     {
         private RenderTarget2D colorMapRenderTarget;
