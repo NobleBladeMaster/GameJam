@@ -30,8 +30,13 @@
     <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.VideoImporters, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Textures\Spel Sprite Sheet.png">
       <Name>Test</Name>
+=======
+    <Compile Include="Textures\Backgrounds\dc486960-701e-421b-b145-70d04f3b85be.jpg">
+      <Name>HighScoreBackGround</Name>
+>>>>>>> master
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
@@ -44,8 +49,83 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Textures\Village_Level 1.png">
       <Name>level1</Name>
+=======
+    <Compile Include="Textures\TestBackgrounds\Example_movie_end_credits.png">
+      <Name>Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Textures\TestBackgrounds\1_QRjybL0B_rVc_xozsZIYBQ.png">
+      <Name>HighScoreBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fonts\NormalMenuFont.spritefont">
+      <Name>NormalMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fonts\BoldMenuFont.spritefont">
+      <Name>BoldMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Textures\TestBackgrounds\Menu.png">
+      <Name>MainMenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Textures\TestBackgrounds\Village_Level 1.png">
+      <Name>Level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fonts\CreditsFont.spritefont">
+      <Name>CreditsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fonts\BoldCreditsFont.spritefont">
+      <Name>BoldCreditsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fonts\CreditsTitleFont.spritefont">
+      <Name>CreditsTitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Background.png">
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Background Normal.png">
+      <Name>Background Normal</Name>
+>>>>>>> master
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

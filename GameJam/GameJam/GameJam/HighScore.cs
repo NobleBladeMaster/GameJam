@@ -60,7 +60,7 @@ namespace GameJam
             }
         }
 
-        public static void LoadContent(ContentManager content)
+       public static void LoadContent(ContentManager content)
         {
             //background = content.Load<Texture2D>(@"Textures/Backgrounds/HighScoreBackGround");
             //scoreFont = content.Load<SpriteFont>(@"Fonts/CreditsTitleFont");
@@ -145,7 +145,7 @@ namespace GameJam
 
         public static void Draw(SpriteBatch spriteBatch)
         {
-            spriteBatch.Begin();
+           
             // Draw background
             spriteBatch.Draw(background, new Rectangle(0, 0, Game1.ScreenBounds.X, Game1.ScreenBounds.Y), Color.White);
             // Draw score
@@ -156,7 +156,7 @@ namespace GameJam
                 // Draw score
                 spriteBatch.DrawString(scoreFont, currentData.Scores[i].score.ToString(), new Vector2(Game1.ScreenBounds.X * 0.75f, i * 60 + 120), Color.White);
             }
-            spriteBatch.End();
+           
         }
     }
 }

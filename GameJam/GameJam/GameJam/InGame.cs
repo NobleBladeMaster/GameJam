@@ -18,7 +18,10 @@ namespace GameJam
 
         public static void LoadContent(ContentManager content)
         {
-           
+
+            level1 = content.Load<Texture2D>(@"Textures/TestBackgrounds/Level1");
+
+
         }
 
         public static void Update(GameTime gameTime)

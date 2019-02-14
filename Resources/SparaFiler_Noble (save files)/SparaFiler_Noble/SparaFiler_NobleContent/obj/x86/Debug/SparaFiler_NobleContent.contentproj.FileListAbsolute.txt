@@ -3,3 +3,4 @@ D:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_NobleContent\obj\x86\Debug\Spara
 E:\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_NobleContent\obj\x86\Debug\SparaFiler_NobleContent.contentprojResolveAssemblyReference.cache
 D:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_NobleContent\obj\x86\Debug\SparaFiler_NobleContent.contentprojResolveAssemblyReference.cache
 F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_NobleContent\obj\x86\Debug\SparaFiler_NobleContent.contentprojResolveAssemblyReference.cache
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_NobleContent\obj\x86\Debug\SparaFiler_NobleContent.contentprojResolveAssemblyReference.cache

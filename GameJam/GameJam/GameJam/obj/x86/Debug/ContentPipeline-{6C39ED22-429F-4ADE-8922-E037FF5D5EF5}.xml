@@ -2,11 +2,21 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
+      <Source>Textures\Backgrounds\dc486960-701e-421b-b145-70d04f3b85be.jpg</Source>
+      <Name>Textures\Backgrounds\HighScoreBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\Backgrounds\HighScoreBackGround.xnb</Output>
+      <Time>2019-02-14T13:32:30.7611703+01:00</Time>
+    </Item>
+    <Item>
       <Source>Textures\Avilda - Front.png</Source>
       <Name>Textures\Avilda - Front</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\Avilda - Front.xnb</Output>
       <Time>2019-02-13T15:46:13.9445583+01:00</Time>
     </Item>
@@ -27,47 +37,161 @@
       <Options>None</Options>
       <Output>C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\level1.xnb</Output>
       <Time>2019-02-14T14:12:42.8732953+01:00</Time>
+=======
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\Avilda - Front.xnb</Output>
+      <Time>2019-02-14T10:21:01.7440399+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TestBackgrounds\Example_movie_end_credits.png</Source>
+      <Name>Textures\TestBackgrounds\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\Credits.xnb</Output>
+      <Time>2019-02-14T13:32:29.6348173+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TestBackgrounds\1_QRjybL0B_rVc_xozsZIYBQ.png</Source>
+      <Name>Textures\TestBackgrounds\HighScoreBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\HighScoreBackGround.xnb</Output>
+      <Time>2019-02-14T13:32:29.6257919+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TestBackgrounds\Menu.png</Source>
+      <Name>Textures\TestBackgrounds\MainMenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\MainMenuBackground.xnb</Output>
+      <Time>2019-02-14T13:32:29.6628918+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TestBackgrounds\Village_Level 1.png</Source>
+      <Name>Textures\TestBackgrounds\Level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Textures\TestBackgrounds\Level1.xnb</Output>
+      <Time>2019-02-14T13:32:29.6719154+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\NormalMenuFont.spritefont</Source>
+      <Name>Fonts\NormalMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\NormalMenuFont.xnb</Output>
+      <Time>2019-02-14T13:32:29.614763+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BoldMenuFont.spritefont</Source>
+      <Name>Fonts\BoldMenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\BoldMenuFont.xnb</Output>
+      <Time>2019-02-14T13:32:29.5957117+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\CreditsFont.spritefont</Source>
+      <Name>Fonts\CreditsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\CreditsFont.xnb</Output>
+      <Time>2019-02-14T13:32:29.6157656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BoldCreditsFont.spritefont</Source>
+      <Name>Fonts\BoldCreditsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\BoldCreditsFont.xnb</Output>
+      <Time>2019-02-14T13:32:29.5896952+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\CreditsTitleFont.spritefont</Source>
+      <Name>Fonts\CreditsTitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Fonts\CreditsTitleFont.xnb</Output>
+      <Time>2019-02-14T13:32:29.6157656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2019-02-14T14:36:38.0466537+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background Normal.png</Source>
+      <Name>Background Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\Background Normal.xnb</Output>
+      <Time>2019-02-14T14:37:15.2979354+01:00</Time>
+>>>>>>> master
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{6C39ED22-429F-4ADE-8922-E037FF5D5EF5}</ContentProjectGUID>
       <TargetPlatform>Windows</TargetPlatform>
-      <TargetProfile>Reach</TargetProfile>
+      <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
+<<<<<<< HEAD
       <RootDirectory>C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJamContent\</RootDirectory>
       <LoggerRootDirectory>C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\</LoggerRootDirectory>
       <IntermediateDirectory>C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\</IntermediateDirectory>
       <OutputDirectory>C:\Users\noble.johanssonmart\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\</OutputDirectory>
+=======
+      <RootDirectory>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJamContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\mohamed.adan\Downloads\GitKraken\GameJam\GameJam\GameJam\GameJam\bin\x86\Debug\Content\</OutputDirectory>
+>>>>>>> master
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+02:00</Value>
+        <Value>2011-09-01T17:22:30+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+<<<<<<< HEAD
         <Value>2018-10-01T10:11:42.2504878+02:00</Value>
+=======
+        <Value>2019-02-13T10:51:45.7479675+01:00</Value>
+>>>>>>> master
       </Assembly>
     </Assemblies>
   </Asset>

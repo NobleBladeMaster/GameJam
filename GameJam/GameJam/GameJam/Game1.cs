@@ -29,6 +29,10 @@ namespace GameJam
         //private PlayerManager playerSprite;
 
 
+
+        private List<Light> Lights = new List<Light>();
+
+
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -44,7 +48,7 @@ namespace GameJam
             Credits,
             Exit,
             GameOver,
-            ChooseDifficulty, 
+            ChooseDifficulty,
         }
 
         public static Point ScreenBounds { get; } = new Point(1040, 620);
@@ -56,6 +60,10 @@ namespace GameJam
         public static SpriteFont CreditsFont;
         public static SpriteFont BoldCreditsFont;
         public static SpriteFont CreditsTitleFont;
+
+        public delegate void FinalActionsDelegate();
+
+        public static FinalActionsDelegate finalActionsDelegate = () => { Console.WriteLine("Started Delegate"); };
 
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
@@ -71,6 +79,8 @@ namespace GameJam
             graphics.PreferredBackBufferWidth = ScreenBounds.X;
             graphics.PreferredBackBufferHeight = ScreenBounds.Y;
             graphics.ApplyChanges();
+
+            HighScore.Initilize();
 
             base.Initialize();
         }
@@ -249,7 +259,10 @@ namespace GameJam
                     throw new ArgumentOutOfRangeException();
             }
 
-
+            if (UtilityClass.SingleActivationKey(Keys.Escape))
+            {
+                LoadContent();
+            }
 
             // TODO: Add your update logic here
 
@@ -263,7 +276,7 @@ namespace GameJam
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.White);
+            GraphicsDevice.Clear(Color.Black);
 
             // TODO: Add your drawing code here
 
@@ -275,6 +288,8 @@ namespace GameJam
 
 
 
+            if (!finalActionsDelegate.Equals(new FinalActionsDelegate(() => { })))
+            {
 
             //switch (gameState)
             //{
@@ -314,5 +329,7 @@ namespace GameJam
 
             base.Draw(gameTime);
         }
+
+       
     }
 }

@@ -91,3 +91,22 @@ F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFil
 F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.exe
 F:\Färdiga Projekt\Färdiga Visual Studios Projekt\Alla Färdiga Tools\SparaFiler_Noble\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.pdb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Content\SpriteFont3.xnb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.exe
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\SparaFiler_Noble.pdb
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.csprojResolveAssemblyReference.cache
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.exe
+C:\Users\daniel.gustafsson4\Downloads\GitKraken\GameJam\Resources\SparaFiler_Noble (save files)\SparaFiler_Noble\SparaFiler_Noble\obj\x86\Debug\SparaFiler_Noble.pdb
